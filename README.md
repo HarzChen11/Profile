@@ -4,7 +4,6 @@
     <font size="3"><p>姓名：陳宛柔 / Harz Chen</p>
     <p>手機：0919091682</p>
       <p>E-mail：qwe07081259@gmail.com</p></font>
-   </head>
     <hr size="10px" align="center" width="100%" noshade>
   <body>
       <h3>個人簡介</h3>
@@ -47,4 +46,5 @@
        </p></font>
     <hr size="10px" align="center" width="100%" noshade>
   </body>
+       </head>
 </html>
