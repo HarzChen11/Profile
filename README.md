@@ -47,5 +47,4 @@
        </p></font>
     <hr size="10px" align="center" width="100%" noshade>
   </body>
-  </head>
 </html>
