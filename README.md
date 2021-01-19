@@ -1,6 +1,7 @@
 <html>
   <head>
   <h3>申請人資料</h3>
+    <img src="D:\圖片1">
     <font size="3"><p>姓名：陳宛柔 / Harz Chen</p>
     <p>手機：0919091682</p>
       <p>E-mail：qwe07081259@gmail.com</p></font>
